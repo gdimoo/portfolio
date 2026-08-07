@@ -17,9 +17,6 @@ export function Hero() {
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-foreground text-balance">
               Siripra Kingchan
             </h1>
-            <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-              DSSI Lecturer at Ubon Ratchathani University
-            </p>
           </div>
 
           <p className="text-muted-foreground leading-relaxed max-w-2xl text-pretty">

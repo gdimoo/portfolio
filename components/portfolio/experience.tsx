@@ -18,14 +18,15 @@ const experiences: ExperienceItem[] = [
   {
     id: "1",
     period: "Dec 2025 — Present",
-    title: "Lecturer in DSSI Program",
-    organization: "Faculty of Science, Ubon Ratchathani University",
+    title: "Freelance",
+    organization: "Ubon Ratchathani University",
     type: "teaching",
     description:
-      "Teaching in Data Science and Software Innovation (DSSI) Program, specializing in Python, AI, and Software Engineering.",
+      "Tutoring programming and contributing to AI transcription and Thai AI voice-recording projects.",
     highlights: [
-      "Coaching the Computer Olympiad team",
-      "Specializing in Programming Fundamentals and Data Science",
+      "Tutoring programming fundamentals and problem-solving",
+      "Contributing to AI speech-to-text transcription projects",
+      "Recording Thai-language voice data for AI projects",
     ],
   },
   {

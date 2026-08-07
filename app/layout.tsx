@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains" });
 
 export const metadata: Metadata = {
-  title: 'Portfolio | University Lecturer & Software Developer',
-  description: 'DSSI Lecturer at Ubon Ratchathani University specializing in Computer Science and Artificial Intelligence',
+  title: 'Portfolio | Software Developer',
+  description: 'Ubon Ratchathani',
   generator: 'v0.app',
   icons: {
     icon: [
