@@ -20,8 +20,7 @@ export function Hero() {
           </div>
 
           <p className="text-muted-foreground leading-relaxed max-w-2xl text-pretty">
-            I am a <span className="text-foreground font-medium">Digital Innovation Lead</span> and
-            <span className="text-foreground font-medium">Computer Science Educator</span> at Ubon Ratchathani University,
+            I am a <span className="text-foreground font-medium">Digital Innovation Lead</span>,
             specializing in <span className="text-foreground font-medium">Artificial Intelligence</span> and
             <span className="text-foreground font-medium">Full Stack Development</span>.
             With a background as a <span className="text-foreground font-medium">Team Lead</span> in enterprise-level manufacturing,

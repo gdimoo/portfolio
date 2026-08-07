@@ -19,7 +19,7 @@ const experiences: ExperienceItem[] = [
     id: "1",
     period: "Dec 2025 — Present",
     title: "Freelance",
-    organization: "Ubon Ratchathani University",
+    organization: "Ubon Ratchathani",
     type: "teaching",
     description:
       "Tutoring programming and contributing to AI transcription and Thai AI voice-recording projects.",
